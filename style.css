@@ -1,0 +1,13 @@
+* {
+    font-family: Times, serif;
+    color: #0e2468;
+}
+.centered {
+    text-align: center;
+}
+button {
+    color: #0e2468; background-color: aquamarine; size: 30pt;
+}
+h2 {
+    text-align: center;
+}
